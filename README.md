@@ -1,4 +1,5 @@
-#FL-Studio Automation
+FL-Studio Automation
+
 🎵 The "FL-Studio Automation" repository is a version-controlled project aimed at automating repetitive tasks in FL Studio, inspired by my love for music and automation. It provides a set of scripts and utilities to streamline the workflow and enhance productivity when working with FL Studio projects. 🎚️🔧
 
 **Key Features:**
